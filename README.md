@@ -2,8 +2,10 @@
 Your project's description...
 
 ## Environments
-- [Preview](https://main--edge-delivery--tamelang.hlx.page/)https://main--{repo}--{owner}.hlx.page/
-- [Live](https://main--edge-delivery--tamelang.hlx.live/)https://main--{repo}--{owner}.hlx.live/
+- [Preview](https://main--edge-delivery--tamelang.hlx.page/)
+- - https://main--{repo}--{owner}.hlx.page/
+- [Live](https://main--edge-delivery--tamelang.hlx.live/)
+- - https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
 
